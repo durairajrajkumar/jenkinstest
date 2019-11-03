@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.rahul</groupId>
-	<artifactId>springboot</artifactId>
+	<groupId>com.deere</groupId>
+	<artifactId>springboot_devOps_Training</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>springboot</name>
+	<name>springboot_devOps_Training</name>
 	<description>Project for Spring Boot Jenkins</description>
 
 	<parent>
